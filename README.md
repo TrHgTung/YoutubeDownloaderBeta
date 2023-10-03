@@ -2,20 +2,9 @@
 <p align='center'>YouTube Video Downloader is a simple Python Web application built with Django</p>
 <p>youtube-dll module is used: <a href="https://github.com/ytdl-org/youtube-dl">youtube-dll</a></p>
 
-## Source Code (original)
+## Source Code
 
-[![Github@alii76tt](https://github.com/alii76tt/youtube-video-downloader)](https://github.com/alii76tt/youtube-video-downloader)
-
-## Live Demo
-
-[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)](https://youtube-video-download-yt.herokuapp.com/)
-
-<p align="center">
-    <a href="https://alii76ttytclone.pythonanywhere.com/">
-        <img src="./images/1.gif"
-            alt="Update Github Stats" title="django-yt-clone">
-    </a>
-</p>
+[![Github@TrHgTung](https://github.com/TrHgTung/YoutubeDownloader)](https://github.com/TrHgTung/YoutubeDownloader)
 
 ## Requirements
 
@@ -49,4 +38,6 @@ $ python manage.py runserver
 <p align="center">
     <img src="./images/1.png">
     <img src="./images/2.png">
-</p
+</p>
+
+`Origin: Github@alii76tt`
