@@ -22,7 +22,7 @@ youtube-dl==2021.12.17
 # Installation
 
 ```sh
-$ git clone https://github.com/alii76tt/youtube-video-downloader
+$ git clone https://github.com/TrHgTung/YoutubeDownloader.git
 $ cd youtube-video-downloader
 $ python -m venv venv
 if you are using windows:
