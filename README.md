@@ -1,6 +1,6 @@
 <h1 align='center'>Youtube Video Downloader</h1>
 <p align='center'>YouTube Video Downloader is a simple Python Web application built with Django</p>
-<p>youtube-dll module is used: <a href="https://github.com/ytdl-org/youtube-dl">youtube-dll</a></p>
+<p>youtube-dll module is used: <a href="https://github.com/ytdl-org/youtube-dl">youtube-dl</a></p>
 
 ## Source Code
 
@@ -23,14 +23,14 @@ youtube-dl==2021.12.17
 
 ```sh
 $ git clone https://github.com/TrHgTung/YoutubeDownloader.git
-$ cd youtube-video-downloader
+$ cd YoutubeDownloader
 $ python -m venv venv
-if you are using windows:
+Nếu dùng Windows:
 $.\venv\Scripts\activate
-if you are using linux
+ linux:
 $source venv/bin/activate
 $ pip install -r requirements.txt
-$ python manage.py runserver
+$ python manage.py runserver 8000
 ```
 
 ## Screenshots
